@@ -1,0 +1,46 @@
+
+body {
+  background-image: url(https://media1.britannica.com/eb-media/59/1759-004-9B16F35D.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 2000px 1000px;
+    font-family: papyrus;
+    font-size: 1.5em;
+}
+
+h1 {
+  background-color: gold;
+}
+
+ul {
+  background-color: gold;
+}
+
+h2 {
+  background-color: gold;
+}
+
+h3 {
+  background-color: gold;
+}
+
+h4 {
+  background-color: gold;
+}
+
+a {
+  background-color: gold;
+}
+#red-text {
+  color: red;
+}
+
+div {
+  background-color: gold;
+}
+
+img{
+  padding: 10px;
+  margin: 10px;
+}
